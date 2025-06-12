@@ -1,4 +1,3 @@
-````markdown
 # 🌌 3D Solar System with Three.js
 
 A visually immersive 3D Solar System simulation built using [Three.js](https://threejs.org/). Navigate through space, observe planetary orbits, and explore our solar system in real-time 3D right in your browser!
@@ -72,5 +71,3 @@ Contributions, suggestions, and improvements are welcome! Feel free to fork the 
 ## ✨ Author
 
 Developed with ❤️ by **Soudip Mondal**
-
-```
